@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\bin\Debug\net5.0\HoweWorkWeapons.exe
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\bin\Debug\net5.0\HoweWorkWeapons.deps.json
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\bin\Debug\net5.0\HoweWorkWeapons.runtimeconfig.json
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\bin\Debug\net5.0\HoweWorkWeapons.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\bin\Debug\net5.0\HoweWorkWeapons.dll
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\bin\Debug\net5.0\ref\HoweWorkWeapons.dll
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\bin\Debug\net5.0\HoweWorkWeapons.pdb
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\HoweWorkWeapons.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\HoweWorkWeapons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\HoweWorkWeapons.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\HoweWorkWeapons.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\HoweWorkWeapons.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\HoweWorkWeapons.dll
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\ref\HoweWorkWeapons.dll
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\HoweWorkWeapons.pdb
+C:\Users\ElRomario\source\repos\HoweWorkWeapons\HoweWorkWeapons\obj\Debug\net5.0\HoweWorkWeapons.genruntimeconfig.cache
